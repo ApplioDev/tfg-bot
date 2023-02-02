@@ -23,7 +23,7 @@ function crazy(channel) {
   setTimeout(() => channel.send('I was crazy once.'), 14000);
   setTimeout(() => channel.send('They put me in a room.'), 15000);
   setTimeout(() => channel.send('A rubber room.'), 16000);
-  setTimeout(() => channel.send('A rubber room with rats!'), 171000);
+  setTimeout(() => channel.send('A rubber room with rats!'), 17000);
   setTimeout(() => channel.send('The rats made me crazy!'), 18000);
 }
 
